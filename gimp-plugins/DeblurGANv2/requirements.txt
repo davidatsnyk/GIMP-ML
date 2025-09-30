@@ -1,4 +1,4 @@
-torch==1.0.1
+torch==2.8.0
 torchvision
 pretrainedmodels
 numpy
